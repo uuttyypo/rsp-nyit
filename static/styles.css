@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f2f5;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #45a049;
+}
+
+.card-footer a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+.card-footer a:hover {
+    color: #3e8e41;
+}
